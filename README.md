@@ -1,4 +1,4 @@
-# Project Euler Problems: 100+ Math Challenges Solved, Documented, and Analyzed with O Notation
+# Python Solutions to Project Euler Problems: 100+ Math Challenges Documented, and Analyzed with O Notation
 
 This repository contains my solutions to math problems from Project Euler, which I have solved between February 2022 and September 2023.  Project Euler is a collection of challenging mathematical and computational problems that require problem-solving skills and programming techniques. I also documented the O note analysis for each problem at the end of each solution.
 
