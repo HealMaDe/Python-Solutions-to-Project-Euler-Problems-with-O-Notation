@@ -10,19 +10,7 @@ This repository contains my solutions to math problems from Project Euler, which
 
 ## Usage
 
-To explore and run the solution code, you can follow these steps:
-
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the specific problem: `cd [problem-directory]`
-3. Run the solution code: `python [file-name.py]` 
-
-Alternatively, I recommend opening the solution notebooks directly in Google Colab:
-
-1. Open the problem notebook: [Link to the notebook]
-2. Click on the "Open in Colab" button to launch the notebook in Google Colab.
-3. Follow the instructions within the notebook to run and explore the solution interactively.
-
-Note: Opening the solutions in Google Colab provides an interactive environment where you can run the code, modify it, and experiment with different inputs easily.
+I recommend opening the solution notebooks directly in Google Colab. Opening the solutions in Google Colab provides an interactive environment where you can run the code, modify it, and experiment with different inputs easily. Follow the instructions within the notebook to run and explore the solution interactively.
 
 ## Contributions
 
